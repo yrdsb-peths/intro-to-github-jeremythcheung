@@ -1,5 +1,5 @@
 function greet(name) {
-  return `Hi there, ${name}!`;
+  return "Hey, " + name + "! Welcome!";
 }
 
 console.log(greet("World"));
